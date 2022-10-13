@@ -1,9 +1,9 @@
 <center><h1 align="center">Hola amigos, ich bin Meffiu</h1>
-<h3 align="center">roblox <3333333333333333333</h3>
+<h3 align="center">i am very lazy developer and i haven't done anything interesting (yet)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mefuuu&label=Profile%20views&color=0e75b6&style=flat" alt="mefuuu" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/meffiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meffiu" height="30" width="40" /></a>
 </p>
