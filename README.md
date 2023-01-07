@@ -1,16 +1,59 @@
-<center><h1 align="center">Hola amigos, ich bin Meffiu</h1>
+<div align="center">
+  <img src="header.png">
+</div>
+<h3 align="center">Hola amigos, Ich bin Meffiu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 <h3 align="center">i am very lazy developer and i haven't done anything interesting (yet)</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mefuuu&label=Profile%20views&color=0e75b6&style=flat" alt="mefuuu" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mefuuu&label=Profile%20views&color=0e75b6&style=flat" alt="mefuuu" /> </p>
+<hr>
+<div align="center">
+  <strong>💻 Languages, Tools and Libraries:</strong>
+  <br>
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black">
+  <img src="https://img.shields.io/badge/typescript-%2300FFFF.svg?style=for-the-badge&logo=typescript&logoColor=%2300FFFF&labelColor=black">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=black">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=black">
+  <img src="https://img.shields.io/badge/lua-%23777BB4.svg?style=for-the-badge&logo=lua&logoColor=%23777BB4&labelColor=black">
+  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=blue&labelColor=black">
+  <img src="https://img.shields.io/badge/-node.js-green?style=for-the-badge&logo=node.js&logoColor=green&labelColor=black">
+  <img src="https://img.shields.io/badge/-npm-red?style=for-the-badge&logo=npm&logoColor=red&labelColor=black">
+  <img src="https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=green&labelColor=black">
+  <img src="https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=black">
+  <img src="https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=orange&labelColor=black">
+<br>
+-
+<br>
+  <strong>📱 IDEs/Editors:</strong>
+    <br>
+    <img src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/sublime%20text-orange?style=for-the-badge&logo=sublimetext&logoColor=orange&labelColor=black">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=black">
+  <br>
+</div>
 
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/meffiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meffiu" height="30" width="40" /></a>
-</p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <strong>🔗 Links:</strong>
+<br>
+• Linktree: https://linktr.ee/Mefuuuu/ <br>
+• Desu-Online.pl: https://desu-online.pl/ <br>
+• Discord Bots Poland: https://discordbots.pl/ <br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mefuuu&show_icons=true&locale=en&layout=compact" alt="mefuuu" /></p>
+<hr>
+<div align="center">
+  <strong>📈 Stats:</strong>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mefuuu&show_icons=true&locale=en&layout=compact" alt="mefuuu" /><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mefuuu&show_icons=true&locale=en" alt="mefuuu" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mefuuu&show_icons=true&locale=en" alt="mefuuu" /></p></center>
+<hr>
+<div align="center">
+  <strong>Discord:</strong>
+  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/334411435633541121)](https://discord.com/users/334411435633541121)
+
+</div>
