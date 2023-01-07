@@ -37,7 +37,7 @@
 <div align="center">
   <strong>🔗 Links:</strong>
 <br>
-• Linktree: https://linktr.ee/Mefuuuu/ <br>
+• Linktree: https://linktr.ee/Mefuuu/ <br>
 • Desu-Online.pl: https://desu-online.pl/ <br>
 • Discord Bots Poland: https://discordbots.pl/ <br>
 </div>
