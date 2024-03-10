@@ -37,17 +37,15 @@
 <div align="center">
   <strong>🔗 Links:</strong>
 <br>
-• Linktree: https://linktr.ee/Mefuuu/ <br>
-• Desu-Online.pl: https://desu-online.pl/ <br>
-• Discord Bots Poland: https://discordbots.pl/ <br>
+• Linktree: https://linktr.ee/meffiu/ <br>
 </div>
 
 <hr>
 <div align="center">
   <strong>📈 Stats:</strong>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mefuuu&show_icons=true&locale=en&layout=compact" alt="mefuuu" /><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mefuuu&show_icons=true&locale=en" alt="mefuuu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meff1u&show_icons=true&locale=en&layout=compact" alt="mefuuu" /><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Meff1u&show_icons=true&locale=en" alt="mefuuu" />
 </div>
 
 <hr>
