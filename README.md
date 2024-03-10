@@ -37,7 +37,7 @@
 <div align="center">
   <strong>🔗 Links:</strong>
 <br>
-• Linktree: https://linktr.ee/meffiu/ <br>
+• https://linktr.ee/meffiu/ <br>
 </div>
 
 <hr>
