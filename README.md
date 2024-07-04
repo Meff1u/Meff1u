@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=black">
     <img src="https://img.shields.io/badge/sublime%20text-orange?style=for-the-badge&logo=sublimetext&logoColor=orange&labelColor=black">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=black">
+    <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge">
   <br>
 </div>
 
