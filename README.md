@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=black">
   <img src="https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=orange&labelColor=black">
-  <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=black">
+  <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black">
 <br>
 -
 <br>
